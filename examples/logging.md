@@ -1,4 +1,4 @@
-<h1 align="center">Downloading 1 singular file</h1>
+<h1 align="center">Downloading multiple files with logging and launch_after</h1>
 
 <p align="center">
 	<b>See other<a href="https://github.com/adenviney/worldwideupdater/blob/main/examples"> examples.</a></b>
