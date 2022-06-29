@@ -4,17 +4,17 @@
   <!-- Bullet points -->
     <ul>
         <li>
-        <a href="examples/simple.md">
+        <a href="simple.md">
             <b>Downloading 1 file</b>
         </a>
         </li>
         <li>
-        <a href="examples/multiple.md">
+        <a href="multiple.md">
             <b>Downloading multiple files</b>
         </a>
         </li>
         <li>
-        <a href="examples/multiple_with_progress.md">
+        <a href="logging.md">
             <b>Downloading multiple files with logging and launch_after</b>
         </a>
         </li>
