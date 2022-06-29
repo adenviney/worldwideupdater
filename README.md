@@ -7,5 +7,5 @@
 <p align="center">
   <b>WorldwideUpdater is a small library for Python projects. It allows you to download multiple files (and folders) to take away the hassle of doing it yourself.</b>
   <br><br>
-  <b>Install<br><br>install the file</b>
+  <b>Install<br><br>download the file</b>
 </p>
