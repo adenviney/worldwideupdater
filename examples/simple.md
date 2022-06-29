@@ -8,11 +8,11 @@
 import wwu
 
 base = "https://mysite.com/downloads"
-Cli = wwu.client("downloads", f"{base}/version.txt", "0.0.1", f"{base}/file.py")
+Cli = wwu.client("downloads", version_url=f"{base}/version.txt", current_version="0.0.1", f"{base}/file.py") # Make sure to change current_version in your new program!
 
 if Cli.check():
   print("Updating!")
   Cli.download()
-  print("Updated!)
+  print("Updated!")
   
  # Code...```
