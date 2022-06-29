@@ -1,3 +1,10 @@
+<h1 align="center">Downloading 1 singular file</h1>
+
+<p align="center">
+	<b>See other<a href="https://github.com/adenviney/worldwideupdater/blob/main/examples"> examples.</a></b>
+</p>
+
+```py
 import wwu
 
 base = "https://mysite.com/downloads"
@@ -7,3 +14,5 @@ if Cli.check():
     print("Updating...")
     Cli.download(folder="updated", log=True, launch_after="file1.py") #Automatically puts you in new folder, log=True is for logging, can be disabled.
     print("Updated!")
+
+# Code...
