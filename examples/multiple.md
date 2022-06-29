@@ -12,7 +12,7 @@ Cli = wwu.client("downloads", version_url=f"{base}/version.txt", current_version
 
 if Cli.check():
   print("Updating!")
-  Cli.download(folder="folder123") # Folder isn't requires, but downloading multiple files can get messy!
+  Cli.download(folder="folder123") # Folder isn't required, but downloading multiple files can get messy!
   print("Updated!")
   
  # Code...
